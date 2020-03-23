@@ -1,0 +1,12 @@
+debug: true
+port: 8080
+container:
+  nfs:
+  image:
+aliyun:
+  accessKey:
+  secretKey:
+  regionId:
+  zoneId:
+  securityGroupId:
+  vSwitchId: 
